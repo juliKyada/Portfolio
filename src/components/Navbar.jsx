@@ -79,7 +79,7 @@ const Navbar = () => {
                         <a href="https://github.com/juliKyada" target="_blank" rel="noreferrer" className="text-neutral-300 hover:text-pink-300 transition-colors">
                             <Github size={20} />
                         </a>
-                        <a href="https://linkedin.com/in/juli-kyada" target="_blank" rel="noreferrer" className="text-neutral-300 hover:text-violet-300 transition-colors">
+                        <a href="https://www.linkedin.com/in/juli-kyada-8979b7287" target="_blank" rel="noreferrer" className="text-neutral-300 hover:text-violet-300 transition-colors">
                             <Linkedin size={20} />
                         </a>
                     </div>

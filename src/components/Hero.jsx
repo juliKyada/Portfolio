@@ -67,9 +67,12 @@ const Hero = () => {
                 {/* Right content - Spline 3D Scene */}
                 <div className="flex-1 relative min-h-[400px] md:min-h-full w-full">
                     <SplineScene
-                        scene="https://prod.spline.design/kZDDjO5HuC9GJUM2/scene.splinecode"
+                        // scene="https://prod.spline.design/OLrv31gz-xwWc3Ar/scene.splinecode"
+                        scene="/nexbot_robot_character_concept.spline" 
                         className="w-full h-full absolute inset-0"
+                        
                     />
+                    <p className="absolute top-2 left-2 text-white text-xs z-50">Scene Loading...</p>
                 </div>
             </Card>
         </section>
